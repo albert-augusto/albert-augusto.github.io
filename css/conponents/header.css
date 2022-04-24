@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    justify-content: space-between;/*mexe com o alinhamento igual o align mas no sentido horizontal no caso os conteudos do header se separam entre as extremidades as extremidades*/
+    align-items: center;
+    background-color: #dadada;
+    border-bottom: 10px solid #000;
+    padding: 10px 20px;
+}
+
+#logo{
+    font-family: 'Press Start 2P', sans-serif;
+    color:#fff;
+    text-shadow: 5px 5px 0px #000;
+}
