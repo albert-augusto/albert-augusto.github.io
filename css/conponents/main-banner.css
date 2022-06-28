@@ -9,13 +9,13 @@
     padding-left: 90px;
 }
 
-.banner .wrapper{
+.banner .main-wrapper{
     display: flex;
     flex-direction: column;
     width: 640px;
 }
 
-.banner .box{
+.banner .title-box{
     margin-bottom: 40px;
 }
 
