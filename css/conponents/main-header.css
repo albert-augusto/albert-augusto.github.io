@@ -1,4 +1,4 @@
-.header{
+.main-header{
     display: flex;
     justify-content: space-between;/*mexe com o alinhamento igual o align mas no sentido horizontal no caso os conteudos do header se separam entre as extremidades as extremidades*/
     align-items: center;
